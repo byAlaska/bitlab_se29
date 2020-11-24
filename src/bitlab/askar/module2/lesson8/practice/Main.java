@@ -17,7 +17,9 @@ public class Main {
                     "PRESS [0] TO EXIT");
 
 
-            System.out.println("Input choice");
+            System.out.println("Insert new choice");
+
+            System.out.println("Hello brother");
             int choice = in.nextInt();
 
             if (choice == 1) {
