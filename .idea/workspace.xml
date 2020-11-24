@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e7eb7c5-b410-4001-8673-97e085fe95f7" name="Default Changelist" comment="" />
+    <list default="true" id="8e7eb7c5-b410-4001-8673-97e085fe95f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bitlab/askar/module2/lesson8/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bitlab/askar/module2/lesson8/practice/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bitlab/askar/module2/lesson8/practice/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="205">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -57,6 +60,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -94,6 +100,7 @@
     <option name="width" value="800" />
     <option name="height" value="600" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -124,6 +131,39 @@
               <item name="askar" type="462c0819:PsiDirectoryNode" />
               <item name="module2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bitlab_se29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitlab_se29" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="askar" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitlab_se29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitlab_se29" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="askar" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitlab_se29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitlab_se29" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="askar" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitlab_se29" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitlab_se29" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="askar" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,7 +175,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606218708513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606220159934" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -263,18 +303,17 @@
       <workItem from="1605179570823" duration="4747000" />
       <workItem from="1605611799852" duration="9179000" />
       <workItem from="1606155238734" duration="39000" />
-      <workItem from="1606216158019" duration="1828000" />
+      <workItem from="1606216158019" duration="2245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19220000" />
+    <option name="totallyTimeSpent" value="19637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="800" height="600" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2348285" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37994722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +322,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32830188" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28490567" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28490567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bitlab/askar/module2/lesson8/practice/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="205">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

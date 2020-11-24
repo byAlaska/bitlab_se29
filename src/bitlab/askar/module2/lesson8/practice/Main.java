@@ -16,6 +16,8 @@ public class Main {
                     "PRESS [3] TO DELETE ITEMS\n" +
                     "PRESS [0] TO EXIT");
 
+
+            System.out.println("Input choice");
             int choice = in.nextInt();
 
             if (choice == 1) {
