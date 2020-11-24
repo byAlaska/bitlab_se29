@@ -20,6 +20,9 @@ public class Main {
             System.out.println("Insert new choice");
 
             System.out.println("Hello brother");
+
+
+            System.out.println("ljahsdkgjlaskd");
             int choice = in.nextInt();
 
             if (choice == 1) {
